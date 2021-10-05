@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.blackbg {
+  background-color: #1b1b1b;
+  padding: 15px;
+}
+
+.homeheading {
+  font-family: Bree Serif;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.graybg {
+  background-color: #e6f6ff;
+  border-radius: 5px;
+}
+
+.abdulimage {
+  height: 200px;
+  width: 125px;
+}
+
+.homepadding {
+  padding: 15px;
+}
+
+.wingsheading {
+  font-family: Bree Serif;
+  font-size: 15px;
+  color: #183b56;
+}
+
+.paragraph {
+  font-family: Bree Serif;
+  font-size: 12px;
+  color: #06070d;
+}
+
+.smallparagraph {
+  font-family: Bree Serif;
+  font-size: 10px;
+  color: #183b56;
+}
+
+.recommendedheading {
+  font-family: Bree Serif;
+  font-size: 18px;
+  color: #ffffff;
+  margin-top: 9px;
+}
+
+.homeimgcards {
+  height: 130px;
+  width: 90px;
+  margin-right: 10px;
+}
+
+.headingcards {
+  font-family: Bree Serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.paragraphcards {
+  font-family: Bree Serif;
+  font-size: 12px;
+  color: #e4e7eb;
+}
+
+.button {
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+.margincards {
+  margin-top: 8px;
+}
+
+.center1 {
+  text-align: center;
+}
+
+.allimage {
+  height: 200px;
+  width: 130px;
+  margin-bottom: 10px;
+}
+
+.paragraphsmall {
+  font-family: Bree Serif;
+  font-size: 12px;
+  color: #9aa5b1;
+}
+
+.allparagraph {
+  font-family: Bree serif;
+  font-size: 12px;
+  color: #e4e7eb;
+  text-align: left;
+}
